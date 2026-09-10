@@ -11,21 +11,21 @@ void convtime::init(int f, int s)
 
 void convtime::Read()
 {
-    cout << "Введіть години: " << endl;
+    cout << "Input hours: " << endl;
     cin >> this->first;
 
-    cout << "Введіть хвилини: " << endl;
+    cout << "Input minutes: " << endl;
     cin >> this->second;
 }
 
 void convtime::Display()
 {
-    cout << "Час: " << first << " год " << second << " хв" << endl;
+    cout << "Time: " << first << " hours " << second << " minutes" << endl;
 }
 
 int convtime::minutes()
 {
     int total_minutes = (first * 60) + second;
-    cout << "Загальний час у хвилинах: " << total_minutes << " хв" << endl;
+    cout << "Total time in minutes: " << total_minutes << " min" << endl;
     return total_minutes;
 }
