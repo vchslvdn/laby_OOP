@@ -1,6 +1,5 @@
 #include <iostream>
 #include "Date.h"
-
 using namespace std;
 
 int main()
@@ -22,7 +21,7 @@ int main()
     cout << "Date 2 - 15 days = ";
     d6.Display();
 
-	cout << "\nAdding days from dates: " << endl;
+	cout << "\nAdding days to dates: " << endl;
     Date d3 = d1 + 4;
 	cout << "Date 1 + 4 days = ";
     d3.Display();
