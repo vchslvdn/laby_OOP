@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DateApp/DateApp.vcxproj" Id="89ea3dce-7602-4a29-8cb8-c169d1ecfc73" />
+  <Project Path="Datelib/Datelib.vcxproj" Id="f22122d2-cc44-4caa-8b5c-e84e6e6c62e1" />
+</Solution>
