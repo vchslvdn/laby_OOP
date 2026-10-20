@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DateDLL/DateDLL.vcxproj" Id="c06e5249-0835-43aa-a478-66816f690dce" />
+  <Project Path="DateDLLapp/DateDLLapp.vcxproj" Id="854b9df6-7ee6-4086-9052-7abf9c86b553" />
+</Solution>
